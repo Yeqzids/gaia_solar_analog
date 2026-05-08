@@ -2,6 +2,8 @@
 
 Utilities for building and validating an all-sky Gaia DR3 solar-analog catalog using [Gaia@AIP](https://gaia.aip.de/), optional empirical XP correction following [Huang et al. (2024)](https://iopscience.iop.org/article/10.3847/1538-4365/ad18b1), literature cross-checks, and publication tables.
 
+Catalog files are available at [Zenodo](https://doi.org/10.5281/zenodo.20075065).
+
 ## Dependencies
 
 Install Python 3.10+ and:
